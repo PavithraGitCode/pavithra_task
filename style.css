@@ -10,7 +10,7 @@ p {
   margin: 0px;
 }
 .cont {
-  padding: 60px;
+  padding:  70px;
 }
 .heading-container {
   display: flex;
@@ -181,7 +181,7 @@ p {
 /* most popular button box design */
 .box {
   position: relative;
-  width: 100%;
+  /* width: 100%; */
   border: 2px solid #ccc;
   margin-top: 20px;
 }
